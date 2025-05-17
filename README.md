@@ -6,11 +6,11 @@
 
 
 
-### - Convert ```Logs``` To ```URL:EMAIL/LOGIN:PASS```
-### - Convert ```Logs``` To ```EMAIL:PASS```
-### - Convert ```Logs``` To ```EMAIL:PASS``` ( With Special Mail Type ) ( hotmail.de , outlook.fr , ... )
-### -  Sort ```Cookies```
-### -  Sort ```Credit Card```
+### Convert ```Logs``` To ```URL:EMAIL/LOGIN:PASS```
+### Convert ```Logs``` To ```EMAIL:PASS```
+### Convert ```Logs``` To ```EMAIL:PASS``` ( With Special Mail Type ) ( hotmail.de , outlook.fr , ... )
+### Sort ```Cookies```
+### Sort ```Credit Card```
 
 
 
