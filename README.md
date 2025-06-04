@@ -29,7 +29,7 @@
 
 > Download From Telegram : <a href="https://t.me/RustTraffic">```Download```</a>
 
-> Download From Github : <a href="https://github.com/RustCompiler/URL-Email-Password-Cookie-Sorter/releases/tag/Sorter">```Download```</a>
+> Download From Github : <a href="https://github.com/RustCompiler/URL-Email-Password-Cookie-Sorter/releases/tag/exe">```Download```</a>
 
 
 
